@@ -23,3 +23,19 @@ Foram criadas classes específicas para representar
 os inimigos de cada região.
 
 Cada classe implementa seu próprio comportamento de ataque.
+
+## Commit 3 - Implementação do Factory Method
+
+Foi criada a classe abstrata Localizacao responsável
+pela criação dos inimigos.
+
+Cada região passou a decidir qual inimigo deve ser criado,
+evitando decisões condicionais no código principal.
+
+## Commit 3 - Implementação do Factory Method
+
+Foi criada a classe abstrata Localizacao responsável
+pela criação dos inimigos.
+
+Cada região passou a decidir qual inimigo deve ser criado,
+evitando decisões condicionais no código principal.
