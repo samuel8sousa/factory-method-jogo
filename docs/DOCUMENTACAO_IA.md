@@ -39,3 +39,19 @@ pela criação dos inimigos.
 
 Cada região passou a decidir qual inimigo deve ser criado,
 evitando decisões condicionais no código principal.
+
+## Commit 4 - Simulação do funcionamento
+
+Foi criado o Main para demonstrar que o código trabalha
+com a abstração Inimigo.
+
+O jogo não precisa conhecer qual inimigo será criado,
+pois a localização é responsável pela criação.
+
+## Commit 4 - Simulação do funcionamento
+
+Foi criado o Main para demonstrar que o código trabalha
+com a abstração Inimigo.
+
+O jogo não precisa conhecer qual inimigo será criado,
+pois a localização é responsável pela criação.
