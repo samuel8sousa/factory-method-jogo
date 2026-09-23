@@ -55,3 +55,11 @@ com a abstração Inimigo.
 
 O jogo não precisa conhecer qual inimigo será criado,
 pois a localização é responsável pela criação.
+
+## Commit 6 - Expansão do jogo com nova localização
+
+Foi adicionada uma nova região sem modificar
+as classes existentes.
+
+Isso demonstra a principal vantagem do Factory Method:
+facilidade de extensão.
