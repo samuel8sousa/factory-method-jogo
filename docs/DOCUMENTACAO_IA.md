@@ -16,3 +16,10 @@ realizar ataques.
 
 Foi criada a classe abstrata Inimigo contendo o método atacar(),
 que será implementado pelos diferentes tipos de inimigos.
+
+## Commit 2 - Criação dos inimigos concretos
+
+Foram criadas classes específicas para representar
+os inimigos de cada região.
+
+Cada classe implementa seu próprio comportamento de ataque.
