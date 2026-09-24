@@ -11,6 +11,10 @@ public class Main {
 
 
         System.out.println(inimigo.atacar());
+        System.out.println("Nome: " + inimigo.getNome());
+        System.out.println("Vida: " + inimigo.getVida());
+        System.out.println("Dano: " + inimigo.getDano());
+        System.out.println("Ataque: " + inimigo.atacar());
 
 
     }

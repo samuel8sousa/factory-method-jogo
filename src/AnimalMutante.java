@@ -1,7 +1,7 @@
 public class AnimalMutante extends Inimigo {
 
 
-    public Cangaceiro(String nome){
+    public AnimalMutante(String nome){
 
         this.nome = nome;
         vida = 100;
